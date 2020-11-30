@@ -1,0 +1,10 @@
+/.idea
+/.gradle
+/app/build
+/base/build
+/module1/build
+/module2/build
+/router_annotation/build
+/router_compiler/build
+/router_core/build
+local.properties
